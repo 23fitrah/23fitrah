@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Fitrah!
 
-I am a Backend Developer with 9+ years of experience building scalable backend systems, RESTful APIs, and enterprise applications. I enjoy designing clean architectures, optimizing system performance, and developing reliable microservices using Go, Laravel, and .NET.
+I am a Software Engineer with 9+ years of experience building scalable backend systems, RESTful APIs, and enterprise applications. I enjoy designing clean architectures, optimizing system performance, and developing reliable microservices using Go, Laravel, and .NET.
 
 🇮🇩 Based in Jakarta, Indonesia  
 💻 Backend Developer  
