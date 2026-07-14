@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi there 👋, I'm Fitrah!
 
-<!--
-**23fitrah/23fitrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Backend Developer with 5+ years of experience building scalable backend systems, RESTful APIs, and enterprise applications. I enjoy designing clean architectures, optimizing system performance, and developing reliable microservices using Go and PHP.
 
-Here are some ideas to get you started:
+🇮🇩 Based in Jakarta, Indonesia  
+💻 Backend Developer  
+🚀 Passionate about REST API, Microservices, and Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💼 9+ years of experience in Development.
+- 🏦 Experienced in enterprise banking and financial systems.
+- ⚙️ Building RESTful APIs and Microservices using Go, C3, dan Laravel.
+- 🐳 Working with Docker, Redis, RabbitMQ, Elasticsearch, and CI/CD Jenkins.
+- 📚 Continuously learning Cloud, Kubernetes, and modern front-end framework.
+
+---
+
+## 🛠️ Skills & Tech Stack
+
+**Languages**
+- Go
+- PHP
+- C#
+- SQL
+
+**Frameworks**
+- Gin Golang
+- Laravel
+- Lumen
+- .NET
+- CodeIgniter
+
+**Databases**
+- SQL Server
+- MySQL
+- PostgreSQL
+- Redis
+- Elasticsearch
+
+**Tools**
+- Docker
+- Jenkins
+- Git
+- RabbitMQ
+- Postman
+- Jira
+- Confluence
+
+---
+
+## 🌱 Currently Learning
+
+- Kubernetes
+- Next.js
+- System Design
+- Distributed Systems
+
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: *https://www.linkedin.com/in/fitrah-anugrah*
+- 🌐 Portfolio: *(Your Portfolio URL)*
+- 📧 Email: *fitrah.anugrahipb@gmail.com*
