@@ -20,8 +20,6 @@ I am a Backend Developer with 9+ years of experience building scalable backend s
 
 ## 🛠️ Skills & Tech Stack
 
-## 🛠️ Skills & Tech Stack
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -65,35 +63,6 @@ I am a Backend Developer with 9+ years of experience building scalable backend s
 </td>
 </tr>
 </table>
-
-**Languages**
-- Go
-- PHP
-- C#
-- SQL
-
-**Frameworks**
-- Gin Golang
-- Laravel
-- Lumen
-- .NET
-- CodeIgniter
-
-**Databases**
-- SQL Server
-- MySQL
-- PostgreSQL
-- Redis
-- Elasticsearch
-
-**Tools**
-- Docker
-- Jenkins
-- Git
-- RabbitMQ
-- Postman
-- Jira
-- Confluence
 
 ---
 
