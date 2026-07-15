@@ -3,7 +3,7 @@
 I am a Software Engineer with 9+ years of experience building scalable backend systems, RESTful APIs, and enterprise applications. I enjoy designing clean architectures, optimizing system performance, and developing reliable microservices using Go, Laravel, and .NET.
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=36BCF7&center=false&vCenter=true&width=600&lines=Backend+Developer;Software+Engineer;Golang+Developer;.NET+Developer;Web+Developer;Fullstack+Developer;Laravel+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=false&vCenter=true&width=600&lines=Backend+Developer;Software+Engineer;Golang+Developer;.NET+Developer;Web+Developer;Fullstack+Developer;Laravel+Developer)](https://git.io/typing-svg)
 
 🇮🇩 Based in Jakarta, Indonesia  
 💻 Software Engineer  
