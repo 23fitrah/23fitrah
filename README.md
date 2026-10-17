@@ -14,7 +14,6 @@ I am a Software Engineer with 9+ years of experience building scalable backend s
 ## 🚀 About Me
 
 - 💼 9+ years of experience in Development.
-- 🏦 Experienced in enterprise banking and financial systems.
 - ⚙️ Building RESTful APIs and Microservices using Go, .NET, dan Laravel.
 - 🐳 Working with Docker, Redis, RabbitMQ, Elasticsearch, and CI/CD Jenkins.
 - 📚 Continuously learning Cloud, Kubernetes, and modern front-end framework.
