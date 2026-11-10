@@ -1,22 +1,22 @@
 # Hi there 👋, I'm Fitrah!
 
-I am a Software Engineer with 9+ years of experience building scalable backend systems, RESTful APIs, and enterprise applications. I enjoy designing clean architectures, optimizing system performance, and developing reliable microservices using Go, Laravel, and .NET.
+Web Developer with 9+ years of experience in developing and maintaining web applications. Skilled in PHP, Laravel, C# .NET, Golang, and RESTful API development. Experienced in application refactoring, database management, troubleshooting, and performance optimization.
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=false&vCenter=true&width=600&lines=Backend+Developer;Software+Engineer;Web+Developer;Fullstack+Developer;Freelancer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=false&vCenter=true&width=600&lines=Web+Developer;Software+Engineer;Fullstack+Developer)](https://git.io/typing-svg)
 
 🇮🇩 Based in Jakarta, Indonesia  
-💻 Software Engineer  
-🚀 Passionate about REST API, Microservices, and Docker
+💻 Web Developer  
+🚀 Passionate about REST API, Front-end, and Docker
 
 ---
 
 ## 🚀 About Me
 
 - 💼 9+ years of experience in Development.
-- ⚙️ Building RESTful APIs and Microservices using Go, .NET, dan Laravel.
-- 🐳 Working with Docker, Redis, RabbitMQ, Elasticsearch, and CI/CD Jenkins.
-- 📚 Continuously learning Cloud, Kubernetes, and modern front-end framework.
+- ⚙️ Building Web and RESTful APIs using PHP, Laravel, and Go.
+- 🐳 Working with Docker, Elasticsearch, and CI/CD Jenkins.
+- 📚 Continuously learning Golang and React.
 
 ---
 
