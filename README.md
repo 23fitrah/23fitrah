@@ -70,10 +70,9 @@ Web Developer with 9+ years of experience in developing and maintaining web appl
 
 ## 🌱 Currently Learning
 
-- Kubernetes
-- Next.js
-- System Design
-- Distributed Systems
+- Golang
+- React.js
+- Microservice
 
 ---
 
