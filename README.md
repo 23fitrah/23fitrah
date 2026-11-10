@@ -16,7 +16,7 @@ Web Developer with 9+ years of experience in developing and maintaining web appl
 - 💼 9+ years of experience in Development.
 - ⚙️ Building Web and RESTful APIs using PHP, Laravel, and Go.
 - 🐳 Working with Docker, Elasticsearch, and CI/CD Jenkins.
-- 📚 Continuously learning Golang and React.
+- 📚 Continuously learning Golang and modern front-end framework.
 
 ---
 
