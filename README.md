@@ -7,7 +7,7 @@ Software Engineer with 9+ years of experience in developing and maintaining web 
 
 🇮🇩 Based in Jakarta, Indonesia  
 💻 Software Engineer  
-🚀 Passionate about REST API, Front-end, and Docker
+🚀 Passionate about REST API, Microservice, and Docker
 
 ---
 
