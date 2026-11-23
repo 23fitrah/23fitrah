@@ -1,12 +1,12 @@
 # Hi there 👋, I'm Fitrah!
 
-Web Developer with 9+ years of experience in developing and maintaining web applications. Skilled in PHP, Laravel, C# .NET, Golang, and RESTful API development. Experienced in application refactoring, database management, troubleshooting, and performance optimization.
+Software Engineer with 9+ years of experience in developing and maintaining web applications. Skilled in PHP, Laravel, C# .NET, Golang, and RESTful API development. Experienced in application refactoring, database management, troubleshooting, and performance optimization.
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=false&vCenter=true&width=600&lines=Web+Developer;Software+Engineer;Fullstack+Developer)](https://git.io/typing-svg)
 
 🇮🇩 Based in Jakarta, Indonesia  
-💻 Web Developer  
+💻 Software Engineer  
 🚀 Passionate about REST API, Front-end, and Docker
 
 ---
